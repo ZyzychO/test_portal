@@ -33,7 +33,7 @@ paths:
     post:
       tags:
         - pet
-      summary: Add a new pet to the store
+      summary: A123dd a new pet to the store
       description: ''
       operationId: addPet
       responses:
